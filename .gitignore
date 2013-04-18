@@ -1,0 +1,13 @@
+#vagrant
+
+.vagrant/
+
+#generic local machine
+
+*~
+.DS_Store
+.svn
+.cvs
+*.bak
+*.swp
+Thumbs.db
